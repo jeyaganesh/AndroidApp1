@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">InformationBank</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_select_preferences">Select Topics</string>
+    <string name="title_activity_list_card">List Of Events</string>
+    <string name="title_activity_image_card">Show Card</string>
+
+
+
+    <string name="menu_settings">Settings</string>
+    <string name="newslabel">"News : "</string>
+    <string name="authorlabel">"Author : "</string>
+    <string name="datelabel">"Date : "</string>
+    <string name="image">Thumbnail</string>
+
+
+</resources>
